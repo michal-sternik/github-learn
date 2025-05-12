@@ -18,6 +18,12 @@
     --foreground: #ededed;
   }
 }
+.dog {
+  --geist-background: var(--background);
+  --geist-foreground: var(--foreground);
+  --geist-sans: var(--font-sans);
+  --geist-mono: var(--font-mono);
+} 
 
 body {
   background: var(--background);
