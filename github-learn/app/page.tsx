@@ -42,6 +42,22 @@ export default function Home() {
               width={20}
               height={20}
             />
+            <Image
+          className="dark:invert"
+          src="/next.svg"
+          alt="Next.js logo"
+          width={90}
+          height={39}
+          priority
+        />
+        <Image
+          className="dark:invert"
+          src="/next.svg"
+          alt="Next.js logo"
+          width={90}
+          height={39}
+          priority
+        />
             Deploy now
           </a>
         </div>
